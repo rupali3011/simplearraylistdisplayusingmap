@@ -1,0 +1,2 @@
+# simplearraylistdisplayusingmap
+Created with CodeSandbox
